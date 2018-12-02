@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:12:16 +0800] "GET /MyFirstServlet/hello HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:12:17 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:15:58 +0800] "GET /MyFirstServlet/date.jsp HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:25:37 +0800] "GET /MyFirstServlet/hello2 HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:49:04 +0800] "GET /MyFirstServlet/hello2 HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:49:04 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:49:05 +0800] "GET /MyFirstServlet/hello2 HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:49:05 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [02/Dec/2018:19:49:09 +0800] "GET /MyFirstServlet/hello HTTP/1.1" 404 1047
